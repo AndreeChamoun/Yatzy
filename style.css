@@ -1,0 +1,19 @@
+div{
+	float:left;
+	width:32px;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
+#die1 {
+    background:url(/images/dice1.png)
+}
+#status {
+    clear:left;
+}
+
+ul {
+    float: right;
+}
